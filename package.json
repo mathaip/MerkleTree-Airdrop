@@ -12,7 +12,7 @@
     "ethereumjs-util": "^6.0.0",
     "keccak256": "^1.0.0",
     "merkletreejs": "^0.1.6",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "web3-utils": "^1.0.0-beta.36"
   },
   "devDependencies": {},
